@@ -148,4 +148,4 @@ Example from the `activity_main.xml`:
 
 ## Author
 **Aadarsh Kumar Singh**  
-[GitHub Profile](https://github.com/aadarshsing/ViewPager2.git)
+[GitHub Profile](https://github.com/aadarshsing/ViewModel.git)
